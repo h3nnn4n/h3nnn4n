@@ -8,3 +8,7 @@ prediction).
 On my free time I like to code games, do creative coding, or anything else that
 I find interesting, such as emulators, automated puzzle solving or something to
 help me with a problem.
+
+Outside of the tech world there are multiple things that I enjoy. I am a drummer
+and a painter. I like to hiking and camping. I do ceramics, origami, and lately 
+I am growing into sailing. 
