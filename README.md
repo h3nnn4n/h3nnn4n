@@ -10,5 +10,6 @@ I find interesting, such as emulators, automated puzzle solving or something to
 help me with a problem.
 
 Outside of the tech world there are multiple things that I enjoy. I am a drummer
-and a painter. I like to hiking and camping. I do ceramics, origami, and lately 
-I am growing into sailing. 
+and a painter. I like to go hiking, trekking and camping and rencently I started
+bouldering / climbing as well. I also do ceramics, origami, and rencetly I have
+been growing into sailing. 
